@@ -1,0 +1,30 @@
+.content{
+    width:100%;
+    height: 100%;
+}
+.content-left{
+    width:20%;
+    height: 100%;
+    background-color: #b3d4fc;
+    float: left;
+}
+.content-right{
+    width: 80%;
+    height: 100%;
+    background-color: burlywood;
+    float: right;
+}
+.left-title{
+    height: 300px;
+    width: 100%;
+}
+.left-title>a{
+    display: block;
+    width: 100%;
+}
+
+body {
+
+    min-height: 100vh;
+    background-image:linear-gradient(120deg, #7A88FF, #7AFFAF);
+}
